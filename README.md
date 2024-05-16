@@ -1,29 +1,28 @@
-# Raylib-CPP-Starter-Template-for-VSCODE-V2
-Raylib C++ Starter Template for Visual Studio Code on Windows.
-This demo project contains a bouncing ball raylib example program.
-It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
+# Gravity Dash (Physics Engine)
 
-# How to use this template
-1. Double click on the main.code-workspace file. This will open the template in VS Code.
-2. From the Explorer Window of VS Code navigate to the src folder and double click on the main.cpp file.
-3. Press F5 on the keyboard to compile and run the program.
+Gravity Dash is a 2D physics-based game developed using C++ and raylib. The game features realistic gravity, friction, and collision mechanics. Players control a ball to collect stars while avoiding obstacles. The game includes dynamic level progression with increasing difficulty.
 
-# What's changed
-The template now uses folders for better organizion of the files. So, all the source code now lives in the src folder.
+## Features
+- Realistic physics simulation with gravity and friction.
+- Dynamic level progression with procedurally generated obstacles and collectible stars.
+- Smooth player controls and engaging gameplay mechanics.
+- Sound effects for interactions and level progression.
+- Optimized for consistent frame rates and performance.
 
-# Video Tutorial
+## Technologies Used
+- **C++**
+- **raylib**
+- **Physics Simulation**
 
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
+## Getting Started
 
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
+### Prerequisites
+- C++ compiler (e.g., GCC, Clang)
+- raylib library (https://www.raylib.com/)
+- Git (for cloning the repository)
 
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
-</p>
+### Installation
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/drewstake/Gravity-Dash-Physics-Engine-.git
+   cd Gravity-Dash-Physics-Engine-
